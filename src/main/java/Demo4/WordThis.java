@@ -5,5 +5,6 @@ public class WordThis {
 
        //bbb
         System.out.println("hello");
+        System.out.println("world");
     }
 }
